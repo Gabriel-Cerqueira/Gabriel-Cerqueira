@@ -40,7 +40,7 @@ Atuação orientada à construção de software resiliente, combinando fundament
 ### OurBills API — Núcleo Financeiro com DDD & Concorrência
 *Backend REST para gestão financeira pessoal com consistência contábil estrita e previsão de caixa.*
 
-- **Contexto:** Plataforma financeira desenhada sob a filosofia *Manual-First*, garantindo controle explicável de caixa sem surpresas operacionais.
+- **Contexto & Motivação:** Iniciado para solucionar uma dor real de gestão financeira e previsibilidade de caixa de uma pessoa próxima. Aproveitei o problema prático como laboratório deliberado para aprofundar e aplicar conceitos avançados de **System Design**, **testes automatizados** e **escalabilidade**. O projeto é um MVP em desenvolvimento ativo (não finalizado).
 - **Padrões de Engenharia:**
   - Arquitetura de Monólito Modular modelada com agregados e invariantes de **Domain-Driven Design (DDD)**.
   - Segregação multi-tenant lógica por espaços financeiros (*Workspaces*).
@@ -55,7 +55,7 @@ Atuação orientada à construção de software resiliente, combinando fundament
 ### AvaCatcher — Cliente Desktop Nativo em Rust e Tauri v2
 *Aplicativo desktop multiplataforma para sincronização acadêmica e visualização offline.*
 
-- **Contexto:** Solução para acesso fragmentado e lento a tarefas, materiais e notas em portais acadêmicos institucionais e instâncias Moodle AVA.
+- **Contexto & Motivação:** Criado a partir de uma necessidade pessoal direta: precisava de uma solução moderna e rápida para acompanhar a data de atividades, provas e trabalhos marcados, eliminando a lentidão, fragmentação e dependência de conexão dos portais web acadêmicos convencionais.
 - **Engenharia e Desempenho:**
   - Binário compilado nativo com consumo de memória de trabalho reduzido (~35 MB de RAM).
   - Rotina automatizada de autenticação (handshake SSO) com resolução de redirecionamentos via `reqwest` com TLS spoofing.
