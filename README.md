@@ -15,7 +15,7 @@ Estudante de Engenharia da Computação no UniSALESIANO (formação prevista par
 Atuação orientada à construção de software resiliente, combinando fundamentos de engenharia de software com inteligência artificial aplicada à automação de fluxos reais:
 
 1. **Engenharia de Software Corporativa:** Desenvolvimento de serviços backend e interfaces web com foco em manutenibilidade, contratos estritos e resiliência transacional. Experiência de mercado na sustentação e evolução de sistemas corporativos utilizados por grandes players industriais (Solinftec, Raízen e Atvos).
-2. **AI Builder & Orquestração de Agentes:** Aplicação prática de modelos de linguagem (LLMs) em ferramentas e ambientes operacionais. Construção de soluções baseadas em chamadas de ferramentas (*Function Calling*), saídas estritamente estruturadas em JSON Mode, avaliação sistemática de prompts e integração com interfaces físicas e web.
+2. **Engenharia de IA & Sistemas Inteligentes (AI Engineering):** Aplicação prática e arquitetura de modelos de linguagem (LLMs) integrados a sistemas de produção. Construção de soluções baseadas em chamadas determinísticas de ferramentas (*Function Calling*), pipelines assíncronos, saídas estritamente estruturadas em JSON Mode, avaliação sistemática de acurácia de prompts e integração com interfaces físicas e web.
 3. **Engenharia de Baixo Nível e Sistemas:** Bagagem prática em laboratório de eletrônica e formação em Engenharia da Computação aplicada a hardware (Raspberry Pi), automação nativa, consumo de APIs do sistema operacional (Windows API) e desenvolvimento em Rust e Java moderno.
 
 ---
